@@ -11,7 +11,7 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de 
 |Aulas | Resumos|
 |------|--------|
 |Gravando Alterações no Repositorio Local | [Resumos](https://github.com/Edson11042010/repo-remoto.git)
-|Códigos do GitHub necessários| [Códigos]((https://github.com/Edson11042010/C-digo.git)
+|Códigos do GitHub necessários| [Códigos](https://github.com/Edson11042010/C-digo.git)
 
 ## 📒 Referências 
 - [DIO curso](https://web.dio.me/track/criando-prompts-inteligentes) 
